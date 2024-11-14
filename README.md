@@ -68,6 +68,9 @@ http://<node-ip>:<node-port>
 
 Replace <node-ip> with your node's IP address and <node-port> with the assigned NodePort.
 
+![dagster-ui](https://github.com/user-attachments/assets/6287bfe3-03c8-4127-a3a1-0f7d0e2b2871)
+
+
 
 ### 7. Customize Configuration Using values.yaml
 You can customize your Dagster deployment by modifying the configuration values. First, get the default values.yaml file:
